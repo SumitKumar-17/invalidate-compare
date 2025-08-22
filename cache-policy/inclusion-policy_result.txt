@@ -1,0 +1,2 @@
+SM X: old value 0 	 new value deaddead
+SM Y: old value 0 	 new value beefbeef
